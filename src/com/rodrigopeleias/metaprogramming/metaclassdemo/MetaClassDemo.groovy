@@ -19,3 +19,4 @@ rodrigo.writeCode()
 
 String.metaClass.shout = { -> toUpperCase() }
 println "Rodrigo".shout()
+println "My name is $rodrigo.name"
