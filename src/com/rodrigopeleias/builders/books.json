@@ -1,0 +1,28 @@
+{
+    "books": {
+        "currentBook": {
+            "title": "The 4 Hour Work Week",
+            "author": {
+                "first": "Timothy",
+                "last": "Ferisss",
+                "twitter": "@tferriss"
+            },
+            "related": [
+                "The 4 Hout Body",
+                "The 4 hout chef"
+            ]
+        },
+        "nextBook": {
+            "title": "The 4 Hour Work Week",
+            "author": {
+                "first": "Timothy",
+                "last": "Ferisss",
+                "twitter": "@tferriss"
+            },
+            "related": [
+                "The 4 Hout Body",
+                "The 4 hout chef"
+            ]
+        }
+    }
+}
